@@ -1,27 +1,27 @@
 import java.util.concurrent.ThreadPoolExecutor;
 
 public class Multiset {
-    public static void add(String[] args) {
+    public static void add(Object[] item) {
         throw new UnsupportedOperationException();
     }
 
-    public static void remove(String[] args) {
+    public static void remove(Object[] item) {
         throw new UnsupportedOperationException();
     }
 
-    public static void contains(String[] args) {
+    public static void contains(Object[] item) {
         throw new UnsupportedOperationException();
     }
 
-    public static void is_empty(String[] args) {
+    public static void is_empty() {
         throw new UnsupportedOperationException();
     }
 
-    public static void count(String[] args) {
+    public static void count(Object[] args) {
         throw new UnsupportedOperationException();
     }
 
-    public static void size(String[] args) {
+    public static void size() {
         throw new UnsupportedOperationException();
     }
 }
